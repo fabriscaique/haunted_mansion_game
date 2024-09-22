@@ -28,5 +28,4 @@ Python concepts covered in building this game:
 3. **Manage Health**: Use potions wisely, as they are key to your survival.
 4. **Battle or Flee**: Face ghosts with courage or run, but remember—luck determines the outcome.
 
-Good luck! You'll need it to survive this haunted place... 🍀👻
 **Good luck!** You’ll need it to escape this haunted place... 🕯️
